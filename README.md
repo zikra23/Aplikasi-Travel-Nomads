@@ -1,6 +1,7 @@
 Tentang Aplikasi NOMADS
 
-Aplikasi ini merupakan hasil dari pelatihan full stack developer web build with angga, masih dalam tahap pengembangan
+Aplikasi ini merupakan hasil dari pelatihan full stack developer web build with angga, masih dalam tahap pengembangan,
+
 user dapat memesan tiket travel dengan pelayanan pembuatan visa
 User dapat menambahkan user(teman) yang mengikuti travel yang sama
 Notifikasi checkout akan dikirimkan ke email user (Saat sekarang menggunakan mailtrap)
