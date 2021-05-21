@@ -1,0 +1,13 @@
+Tentang Aplikasi NOMADS
+
+Aplikasi ini merupakan hasil dari pelatihan full stack developer web build with angga,
+user dapat memesan tiket travel dengan pelayanan pembuatan visa
+User dapat menambahkan user(teman) yang mengikuti travel yang sama
+Notifikasi checkout akan dikirimkan ke email user (Saat sekarang menggunakan mailtrap)
+
+Framework:
+Bootstrap
+Laravel
+
+Template Admin:
+SB Admin 2
