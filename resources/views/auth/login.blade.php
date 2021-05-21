@@ -39,6 +39,7 @@
                             </div>
                             <button type="submit" class="btn btn-login btn-block">Sign In</button> @if (Route::has('password.request'))
                             <p class="text-center mt-4"> <a href="" class="text-center mt-4">Saya Lupa Password</a></p>
+                               <p class="text-center mt-4"> <a href="{{ route('register') }}" class="text-center mt-4">Buat Akun</a></p>
                             @endif
                         </form>
 
