@@ -37,4 +37,4 @@ Laravel
 Template Admin:
 SB Admin 2
 
-FIle Database:nomad.sql
+FIle Database:nomads.sql
